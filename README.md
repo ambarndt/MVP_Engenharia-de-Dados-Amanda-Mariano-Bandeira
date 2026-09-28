@@ -2,5 +2,5 @@
 Repositório criado para hospedagem do MVP de Engenharia de Dados, da pós-graduação da PUC-Rio. <br>
 Setembro/2026
 
-# Amanda Mariano Bandeira <br>
-# Curso: Data Science and Analytics
+**Amanda Mariano Bandeira  
+Curso: Data Science and Analytics**
